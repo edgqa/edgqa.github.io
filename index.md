@@ -1,6 +1,3 @@
-# EDGQA
-
-Question Answering based on Entity Description Graph.
 
 ## What is EDGQA?
 
