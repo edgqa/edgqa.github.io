@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Question Answering based on Entity Description Graph.
 
-You can use the [editor on GitHub](https://github.com/edgqa/edgqa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# What is EDGQA?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EDGQA is a QA system over knowledge bases based on Entity-Description Graphs (EDGs). Currently EDGQA has been implemented for DBpedia, tested on LC-QuAD 1.0 and QALD-9.
 
-### Markdown
+![Untitled](index.assets/Untitled.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The above figure shows SPARQL (a. and c.) and EDG (b. and d.) on two exemplar natural language questions. The dashed line connects a description to an intermediate entity. The types of nodes and edges of EDG is defined as follows.
 
-```markdown
-Syntax highlighted code block
+![Untitled-2](index.assets/Untitled-2.png)
 
-# Header 1
-## Header 2
-### Header 3
+By generating such EDGs, questions are represented as a combination of entities and their description, providing a structure for understanding and answering complex questions. More information are detailed in our paper.
 
-- Bulleted
-- List
+# Downloads
 
-1. Numbered
-2. List
+- [GitHub repo release](https://github.com/HXX97/EDGQA/releases)
+- [v0.1.1 source code(zip)](https://github.com/HXX97/EDGQA/archive/refs/tags/0.1.1.zip)
+- [v0.1.1 source code (tar.gz)](https://github.com/HXX97/EDGQA/archive/refs/tags/0.1.1.tar.gz)
 
-**Bold** and _Italic_ and `Code` text
+For any questions, feel free to [launch an issue](https://github.com/HXX97/EDGQA/issues) on GitHub or send an e-mail.
 
-[Link](url) and ![Image](src)
+# Experiments
+
+QA performance on LC-QuAD 1.0 and QALD 9.
+
+![Untitled-3](index.assets/Untitled-3.png)
+
+# Citations
+
+```latex
+TBD
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edgqa/edgqa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Last update: 2021/07*
