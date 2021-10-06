@@ -2,7 +2,9 @@
 
 ## What is EDGQA?
 
-EDGQA is a QA system over knowledge bases based on Entity-Description Graphs (EDGs). Currently EDGQA has been implemented for DBpedia, tested on LC-QuAD 1.0 and QALD-9.
+EDGQA is a QA system over knowledge bases based on Entity-Description Graphs (EDGs). 
+Currently EDGQA has been implemented for DBpedia, tested on LC-QuAD 1.0 and QALD-9.
+More information is detailed in [our paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8).
 
 ![Untitled](index.assets/Untitled.png)
 
