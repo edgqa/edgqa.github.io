@@ -17,7 +17,8 @@ By generating such EDGs, questions are represented as a combination of entities 
 
 ## Downloads
 
-- [GitHub repo release](https://github.com/HXX97/EDGQA/releases)
+- [GitHub repository](https://github.com/HXX97/EDGQA/)
+- [GitHub release](https://github.com/HXX97/EDGQA/releases)
 - [v0.1.1 source code(zip)](https://github.com/HXX97/EDGQA/archive/refs/tags/0.1.1.zip)
 - [v0.1.1 source code (tar.gz)](https://github.com/HXX97/EDGQA/archive/refs/tags/0.1.1.tar.gz)
 
