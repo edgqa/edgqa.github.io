@@ -1,10 +1,11 @@
 # EDGQA
 
+More information is detailed in [ISWC 2021 paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) `EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases`.
+
 ## What is EDGQA?
 
 EDGQA is a QA system over knowledge bases based on Entity-Description Graphs (EDGs). 
 Currently EDGQA has been implemented for DBpedia, tested on LC-QuAD 1.0 and QALD-9.
-More information is detailed in [our paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8).
 
 ![Untitled](index.assets/Untitled.png)
 
